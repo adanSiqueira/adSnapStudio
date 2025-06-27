@@ -1,0 +1,15 @@
+README.md
+setup.py
+adsnap_studio.egg-info/PKG-INFO
+adsnap_studio.egg-info/SOURCES.txt
+adsnap_studio.egg-info/dependency_links.txt
+adsnap_studio.egg-info/requires.txt
+adsnap_studio.egg-info/top_level.txt
+services/__init__.py
+services/erase_foreground.py
+services/generative_fill.py
+services/hd_image_generation.py
+services/lifestyle_shot.py
+services/packshot.py
+services/prompt_enhancement.py
+services/shadow.py
