@@ -35,6 +35,13 @@ BRIA_API_KEY=your_api_key_here
 ```bash
 streamlit run app.py
 ```
+---
+
+## 📺 Project Demonstration
+
+![Demonstration](adSnap.gif)
+
+---
 
 ## 💡 Usage
 
