@@ -1,6 +1,7 @@
-# 🎨 AdSnap Studio
+<h1 align="center">  AdSnap Studio</h1>
+<p align="center"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pillow-3670A0?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Bria%20AI-8C52FF?style=for-the-badge"> </p>
 
-A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.
+<h4 align="center">A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.</h4>
 
 ## 🌟 Features
 
